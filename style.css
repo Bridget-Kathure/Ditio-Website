@@ -1,0 +1,104 @@
+#navbar{
+    gap: 10%;
+    display: flex;
+}
+button{
+    background-color: indianred;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+body{
+    padding: 150px;
+}
+.click{
+    display: flex;
+    gap: 10%;
+    padding-bottom: 20px;
+}
+.charge{
+    color: red;
+}
+.sites{
+    display: flex;
+    align-items: center;
+}
+.improve{
+font-family: serif;
+}
+.euro{
+    color: blue;
+    background-color: aquamarine;
+}
+.user{
+    display: flex;
+    gap: 4%;
+}
+.fast{
+    color: grey;
+}
+.foruser{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: solid 3px;
+    border-color: indianred;
+}
+.days{
+    padding-top: 5%;
+}
+.roger{
+    display: flex;
+    gap: 5%;
+    transform: -20deg;
+}
+.pic{
+    margin-top: 20%;
+    height: 200px;
+    width: 200px;
+    transform: rotate(5deg);
+    border-radius: 20%;
+}
+.webs{
+    display: flex;
+    gap: 20%;
+    align-items: center;
+    padding: 80px;
+    flex-direction: row;
+    margin-top: 10%;
+}
+.star{
+    border: solid 1px;
+    border-color: red;
+    padding-right: 2px;
+    border-radius: 10px;
+}
+.work{
+    padding-bottom: 10%;
+}
+.products{
+    display: flex;
+    gap: 5%;
+
+}
+.numbers{
+  display: flex; 
+  gap: 4%; 
+}
+.watch{
+    background-color: skyblue;
+    border-radius: 20%;
+    padding-right: 20px;
+
+}
+.join{
+    background-color: indianred;
+    border-radius: 30%;
+}
+.male{
+    border-radius: 50%;
+    border: solid 3px blue;
+    width: 20%;
+    height: 40%;
+}
